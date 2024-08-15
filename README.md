@@ -7,6 +7,6 @@
 
 Gafarov Timur - tg: [@timuryanst](https://t.me/timuryanst) - timu.ryanst@gmail.com
 
-Project Link: [https://github.com/timu-ryan/from-scratch](https://github.com/timu-ryan/from-scratch)
+Project Link: [https://github.com/timu-ryan/it-must-be-done-perfectly](https://github.com/timu-ryan/it-must-be-done-perfectly)
 
-GitHub Pages: [https://timu-ryan.github.io/from-scratch](https://timu-ryan.github.io/from-scratch/)
+GitHub Pages: [https://timu-ryan.github.io/it-must-be-done-perfectly/](https://timu-ryan.github.io/it-must-be-done-perfectly/)
