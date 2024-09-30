@@ -37,7 +37,7 @@ html {
 .page__title {
   z-index: 1;
   max-width: 720px;
-  margin: 0 auto;
+  margin: 0 auto auto;
   margin-top: 60px;   /* unite with margin */
   font-size: 116px;
   letter-spacing: 3.5px;
